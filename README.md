@@ -1,7 +1,8 @@
 # Fun-with-MUDS
 
 Written by: Mike D'Alessio
-Data:Spring 2015
+
+Date:Spring 2015
 
 
 Welcome to my work in progress MUD(Multi User Dungeon)
